@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\BootstrapEjemplo3\dominio\bin\Debug\dominio.dll
+C:\Users\usuario\source\repos\BootstrapEjemplo3\dominio\bin\Debug\dominio.pdb
+C:\Users\usuario\source\repos\BootstrapEjemplo3\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\BootstrapEjemplo3\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\BootstrapEjemplo3\dominio\obj\Debug\dominio.dll
+C:\Users\usuario\source\repos\BootstrapEjemplo3\dominio\obj\Debug\dominio.pdb
